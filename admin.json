@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "60d9e006c43e613ac826cf24"
+  },
+  "firstName": "Nô",
+  "lastName": "Hải",
+  "birthDay": {
+    "$date": "1999-03-06T17:00:00Z"
+  },
+  "email": "tuanhaicr69@gmail.com",
+  "phoneNumber": "0772464958",
+  "province": "Hải Châu",
+  "district": "Đà Nẵng",
+  "password": "$2b$10$R00ut5tzYQaYG44K5xNhSuwg1vXTX0NrN5/mTyBZ/aMgm6kG1Tr.W",
+  "createdAt": {
+    "$date": "2021-05-18T11:58:48.910Z"
+  },
+  "__v": 0,
+  "resetLink": "ec45e1f7-d709-4725-b588-633138898c40",
+  "gender": "female",
+  "status": true,
+  "joinedDate": {
+    "$date": "2021-05-12T11:58:48.910Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-18T11:34:22.255Z"
+  }
+}]

@@ -1,0 +1,199 @@
+[{
+  "_id": {
+    "$oid": "60a3abf8d5ab5f0248342223"
+  },
+  "firstName": "Nô",
+  "lastName": "Hải",
+  "birthDay": {
+    "$date": "1999-03-06T17:00:00Z"
+  },
+  "email": "tuanhaicr69@gmail.com",
+  "phoneNumber": "0772464958",
+  "province": "Hải Châu",
+  "district": "Đà Nẵng",
+  "password": "$2b$10$UUwMs.Mp2KrxO70YEqawlu8j5hu5ze8hKM0v/brl7QZYoKRPgngEa",
+  "createdAt": {
+    "$date": "2021-05-18T11:58:48.910Z"
+  },
+  "__v": 0,
+  "resetLink": "ec45e1f7-d709-4725-b588-633138898c40",
+  "gender": "female",
+  "status": "false",
+  "joinedDate": {
+    "$date": "2021-05-18T11:58:48.910Z"
+  }
+},{
+  "_id": {
+    "$oid": "60a7349f3024b921e5fc9286"
+  },
+  "resetLink": null,
+  "role": "user",
+  "firstName": "Hải",
+  "lastName": "Lê",
+  "birthDay": {
+    "$date": "1999-03-06T17:00:00Z"
+  },
+  "email": "no@gmail.com",
+  "phoneNumber": "0972411840",
+  "province": "Hải Châu",
+  "district": "Đà Nẵng",
+  "password": "$2b$10$oM1Hzfo2yV4CVEx748MKXODeTyJnZJd66y4tKRZ8YmjIotdh7MJLi",
+  "gender": "male",
+  "createdAt": {
+    "$date": "2021-05-21T04:18:39.843Z"
+  },
+  "__v": 0,
+  "status": true,
+  "joinedDate": {
+    "$date": "1999-03-06T17:00:00Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-31T09:59:22.840Z"
+  }
+},{
+  "_id": {
+    "$oid": "60b0af324ac34941fc70f84b"
+  },
+  "resetLink": null,
+  "role": "user",
+  "firstName": "Lê Quốc Tuấn",
+  "lastName": "Hải",
+  "birthDay": {
+    "$date": "1995-11-30T17:00:00Z"
+  },
+  "email": "n1a1o211@gmail.com",
+  "phoneNumber": "0772464957",
+  "province": "Hải Châu",
+  "district": "Đà Nẵng",
+  "password": "$2b$10$DgIibXmjLYc3AS2ta9sIZe7roYgbvBwvjh5qOs2F3v8//wFPLZA8q",
+  "gender": "Male",
+  "createdAt": {
+    "$date": "2021-05-28T08:52:02.677Z"
+  },
+  "__v": 0,
+  "status": "true"
+},{
+  "_id": {
+    "$oid": "60b0b34d906abe4a4e007984"
+  },
+  "resetLink": null,
+  "status": false,
+  "firstName": "Lê Quốc Tuấn",
+  "lastName": "Hải",
+  "birthDay": {
+    "$date": "1995-11-30T17:00:00Z"
+  },
+  "email": "n1a1os211@gmail.com",
+  "phoneNumber": "0772464976",
+  "province": "Hải Châu",
+  "district": "Đà Nẵng",
+  "password": "$2b$10$KhRcnzdIsEXJIYkhExObH./TbBFgKmrPlERLrCbl5AfvQIFDmjpqe",
+  "gender": "Male",
+  "createdAt": {
+    "$date": "2021-05-28T09:09:33.937Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2021-05-28T13:19:19.448Z"
+  }
+},{
+  "_id": {
+    "$oid": "60b0bfec310c555c23ab71ae"
+  },
+  "resetLink": null,
+  "status": true,
+  "firstName": "Lê Quốc Tuấn",
+  "lastName": "Hải",
+  "birthDay": {
+    "$date": "1995-11-30T17:00:00Z"
+  },
+  "email": "n1a1sos211@gmail.com",
+  "phoneNumber": "0771464976",
+  "province": "Hải Châu",
+  "district": "Đà Nẵng",
+  "password": "$2b$10$J9Fa6Y0tyN0IjWesz3NVseynvAMiPuwWEqmUa/WHVyxee46Uxf1N6",
+  "gender": "Male",
+  "joinedDate": {
+    "$date": "1995-11-04T17:00:00Z"
+  },
+  "createdAt": {
+    "$date": "2021-05-28T10:03:24.503Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b0ed789cf8e8c2c22f95ef"
+  },
+  "resetLink": null,
+  "status": false,
+  "firstName": "Lê Quốc Tuấn",
+  "lastName": "Hải",
+  "birthDay": {
+    "$date": "1995-11-30T17:00:00Z"
+  },
+  "email": "n1a1so2s211@gmail.com",
+  "phoneNumber": "0771424976",
+  "province": "Hải Châu",
+  "district": "Đà Nẵng",
+  "password": "$2b$10$kF0xWAv1XIeyR8.fX4RzHeQUkXskD2zJ4kFJ06sBkdbMW0jPU7lJu",
+  "gender": "Male",
+  "joinedDate": {
+    "$date": "1995-12-03T17:00:00Z"
+  },
+  "createdAt": {
+    "$date": "2021-05-28T13:17:44.608Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b4e141d17dfb1bfc564fae"
+  },
+  "resetLink": null,
+  "status": false,
+  "firstName": "Lê Quốc Tuấn",
+  "lastName": "Hải",
+  "birthDay": {
+    "$date": "1995-10-29T17:00:00Z"
+  },
+  "email": "bsay@gmail.com",
+  "phoneNumber": "0772421276",
+  "province": "Hải Châu",
+  "district": "Đà Nẵng",
+  "password": "$2b$10$N8rRS88gdYOU4YAkZrIe9.3bLF3Gd4PclP/LciwGF06c1xijj2F5O",
+  "gender": "Male",
+  "joinedDate": {
+    "$date": "1995-12-03T17:00:00Z"
+  },
+  "createdAt": {
+    "$date": "2021-05-31T13:14:41.498Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60de71c4be7e23011826f2a5"
+  },
+  "province": 48,
+  "district": 491,
+  "gender": 0,
+  "resetLink": null,
+  "role": "user",
+  "status": false,
+  "joinedDate": null,
+  "firstName": "Dũng",
+  "lastName": "Lê",
+  "slug": "le-dung",
+  "birthDay": {
+    "$date": "2003-07-02T01:53:32.209Z"
+  },
+  "email": "letiendungdt@gmail.com",
+  "phoneNumber": "0905724240",
+  "password": "$2b$10$2Bs7XPHlubyove2iXJ2vveMo71eaF6AXB9f.CDDYKHDcMyCegzLYa",
+  "createdAt": {
+    "$date": "2021-07-02T01:54:12.265Z"
+  },
+  "__v": 0,
+  "updatedAt": {
+    "$date": "2021-07-02T01:55:28.345Z"
+  },
+  "userName": "0905724240"
+}]

@@ -1,0 +1,86 @@
+[{
+  "_id": "60ab8c6d97975d08bc96f1e7",
+  "status": true,
+  "startDate": "2021-05-26T01:15:00.000Z",
+  "endDate": "2021-05-26T05:00:00.000Z",
+  "name": "Vu",
+  "dayoff": "3",
+  "reason": "Xin nghỉ ăn đám cưới",
+  "createdAt": "2021-05-22T11:22:21.756Z",
+  "__v": 0
+},{
+  "_id": "60ab8c6d97975d08bc96f1e3",
+  "status": true,
+  "startDate": "2021-05-26T01:15:00.000Z",
+  "endDate": "2021-05-26T05:00:00.000Z",
+  "name": "Hai",
+  "dayoff": "3",
+  "reason": "Xin nghỉ ăn đám cưới",
+  "createdAt": "2020-05-24T11:22:21.756Z",
+  "__v": 0
+},{
+  "_id": "60ab8c6d97975d08bc96a1e7",
+  "status": true,
+  "startDate": "2021-05-26T01:15:00.000Z",
+  "endDate": "2021-05-26T05:00:00.000Z",
+  "name": "Vu",
+  "reason": "Xin nghỉ ăn đám cưới",
+  "createdAt": "2021-05-24T11:22:21.756Z",
+  "__v": 0
+},{
+  "_id": "60ab8c6d97973d08bc96f1e7",
+  "status": true,
+  "startDate": "2019-05-26T01:15:00.000Z",
+  "endDate": "2019-05-26T05:00:00.000Z",
+  "name": "1/2 Ngày",
+  "dayoff": "2",
+  "reason": "Xin nghỉ ăn đám cưới",
+  "createdAt": "2021-05-22T11:22:21.756Z",
+  "__v": 0
+},{
+  "_id": "60ab8c6d17975d08bc96f1e7",
+  "status": true,
+  "startDate": "2021-05-26T01:15:00.000Z",
+  "endDate": "2021-05-26T05:00:00.000Z",
+  "name": "1/2 Ngày",
+  "reason": "Xin nghỉ ăn đám cưới",
+  "createdAt": "2021-05-24T11:22:21.756Z",
+  "__v": 0
+},{
+  "_id": "64ab8c6d97975d08bc96f1e7",
+  "status": true,
+  "startDate": "2021-05-26T01:15:00.000Z",
+  "endDate": "2021-05-26T05:00:00.000Z",
+  "name": "1/2 Ngày",
+  "dayoff": "1",
+  "reason": "Xin nghỉ ăn đám cưới",
+  "createdAt": "2021-05-21T11:22:21.756Z",
+  "__v": 0
+},{
+  "_id": "60ab8c6a97975d08bc96f1e7",
+  "status": true,
+  "startDate": "2021-05-26T01:15:00.000Z",
+  "endDate": "2021-05-26T05:00:00.000Z",
+  "name": "Hai",
+  "reason": "Xin nghỉ ăn đám cưới",
+  "createdAt": "2021-05-24T11:22:21.756Z",
+  "__v": 0
+},{
+  "_id": "60ab8a6d97975d08bc96f1e7",
+  "status": true,
+  "startDate": "2021-05-26T01:15:00.000Z",
+  "endDate": "2021-05-26T05:00:00.000Z",
+  "name": "1/2 Ngày",
+  "reason": "Xin nghỉ ăn đám cưới",
+  "createdAt": "2021-05-24T11:22:21.756Z",
+  "__v": 0
+},{
+  "_id": "60ab8a6d97975d09bc96f1e7",
+  "status": true,
+  "startDate": "2021-05-26T01:15:00.000Z",
+  "endDate": "2021-05-29T05:00:00.000Z",
+  "name": "1/2 Ngày",
+  "reason": "Xin nghỉ ăn đám cưới",
+  "createdAt": "2021-05-24T11:22:21.756Z",
+  "__v": 0
+}]

@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "60de7210be7e23011826f2a6"
+  },
+  "idEmployee": {
+    "$oid": "60de71c4be7e23011826f2a5"
+  },
+  "status": true,
+  "author": {
+    "id": "60d9e006c43e613ac826cf24",
+    "phoneNumber": "0772464958",
+    "email": "tuanhaicr69@gmail.com",
+    "firstName": "Nô",
+    "lastName": "Hải"
+  },
+  "createdAt": {
+    "$date": "2021-07-02T01:55:28.711Z"
+  },
+  "__v": 0
+}]
